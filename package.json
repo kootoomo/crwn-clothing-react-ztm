@@ -37,7 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  	// UNCOMMENT WHEN NPM RUN BUILD
-	// "homepage": "http://webdesign.alab.pw/crwn-clothing"
+  }
 }
